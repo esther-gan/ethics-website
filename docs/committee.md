@@ -154,7 +154,7 @@ table th {
        </td>
     </tr>
     <tr>
-        <td><img src="https://i.imgur.com/uMnQCSB.png" alt="Punya Syon Pandey" class="portrait"></td>
+        <td><img src="https://i.imgur.com/uMnQCSB.png" alt="Girl on Computer" class="portrait"></td>
         <td>
             <strong>Esther Gan</strong> (<a href="mailto:esther.gan@u.nus.edu">esther.gan@u.nus.edu</a>, she/her) is a PhD candidate at National University of Singapore. Her work focuses on LLM trustworthiness and adversarial robustness.
        </td>
